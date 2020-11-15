@@ -8,7 +8,7 @@ while True:
 	print("\t----------------")
 
 	print("""
-	Press 1: to check Total Disk)
+	Press 1: to check Total Disk
 	Press 2: to create Physical Volume
 	Press 3: to display Physical Volume
 	Press 4: to create volume Group
